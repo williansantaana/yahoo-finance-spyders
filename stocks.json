@@ -1,0 +1,7082 @@
+[
+  {
+    "index": "NASDAQ",
+    "symbol": "ATNX",
+    "name": "Athenex Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ATRS",
+    "name": "Antares Pharma Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ATVI",
+    "name": "Activision Blizzard, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AVAV",
+    "name": "AeroVironment Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AVGO",
+    "name": "Broadcom Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AVID",
+    "name": "Avid Technology Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AVT",
+    "name": "Avnet Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AVXL",
+    "name": "Anavex Life Sciences Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AXGN",
+    "name": "Axogen Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AXON",
+    "name": "Axon Enterprise Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AY",
+    "name": "Atlantica Sustainable Infrastructure PLC"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AYRO",
+    "name": "AYRO Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AYTU",
+    "name": "Aytu BioScience Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AZPN",
+    "name": "Aspen Technology Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BBBY",
+    "name": "Bed Bath & Beyond Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BCRX",
+    "name": "BioCryst Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BEAT",
+    "name": "BioTelemetry Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BEAV",
+    "name": "B/E Aerospace Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BHF",
+    "name": "Brighthouse Financial Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BIDU",
+    "name": "Baidu, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BIIB",
+    "name": "Biogen Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BILI",
+    "name": "Bilibili"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BKNG",
+    "name": "Booking Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BKYI",
+    "name": "Bio-key International Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLDP",
+    "name": "Ballard Power Systems Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLDR",
+    "name": "Builders FirstSource Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLFS",
+    "name": "BioLife Solutions Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLMN",
+    "name": "Bloomin Brands Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLNK",
+    "name": "Blink Charging Co"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BLUE",
+    "name": "Bluebird Bio Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BMBL",
+    "name": "Bumble Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BMRN",
+    "name": "BioMarin Pharmaceutical Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BNGO",
+    "name": "BioNano Genomics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BNTX",
+    "name": "BioNTech SE"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BOXL",
+    "name": "Boxlight Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BPMC",
+    "name": "Blueprint Medicines Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BPY",
+    "name": "Brookfield Property Partners L.P."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BRCM",
+    "name": "Broadcom Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BRKR",
+    "name": "Bruker Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BYND",
+    "name": "Beyond Meat Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "BZUN",
+    "name": "Baozun Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CACC",
+    "name": "Credit Acceptance"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CACQ",
+    "name": "Caesars Acquisition"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CAMP",
+    "name": "CalAmp Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CAN",
+    "name": "Canaan Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CAR",
+    "name": "Avis Budget Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CARA",
+    "name": "Cara Therapeutics "
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CASY",
+    "name": "Caseys General Stores Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CAVM",
+    "name": "Cavium Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CBPO",
+    "name": "China Biologic"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AABA",
+    "name": "Altaba Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AAL",
+    "name": "American Airlines Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AAPL",
+    "name": "Apple"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ABCB",
+    "name": "Ameris Bancorp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ABMD",
+    "name": "ABIOMED Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ABNB",
+    "name": "Airbnb Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ACAD",
+    "name": "ACADIA Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ACIA",
+    "name": "Acacia Communications Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADBE",
+    "name": "Adobe Systems Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADI",
+    "name": "Analog Devices Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADMP",
+    "name": "Adamis Pharmaceuticals Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADP",
+    "name": "Automatic Data Processing Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADSK",
+    "name": "Autodesk, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ADVM",
+    "name": "Adverum Biotechnologies Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AFSI",
+    "name": "AmTrust Financial Services Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AGEN",
+    "name": "Agenus Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AGNC",
+    "name": "American Capital Agency Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AGRX",
+    "name": "Agile Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AIHS",
+    "name": "Senmiao Technology Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AKAM",
+    "name": "Akamai Technologies"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AKRX",
+    "name": "Akorn"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALDR",
+    "name": "Alder BioPharmaceuticals Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALDX",
+    "name": "Aldeyra Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALGN",
+    "name": "Align Technology Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALNY",
+    "name": "Alnylam Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALRM",
+    "name": "Alarm.com Holdings Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALVR",
+    "name": "Allovir Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ALXN",
+    "name": "Alexion Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMAT",
+    "name": "Applied Materials Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMBA",
+    "name": "Ambarella Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMD",
+    "name": "Advanced Micro Devices Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMED",
+    "name": "Amedisys Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMGN",
+    "name": "Amgen Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMRI",
+    "name": "Albany Molecular Research Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMRS",
+    "name": "Amyris Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMTD",
+    "name": "TD Ameritrade Holding Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "AMZN",
+    "name": "Amazon"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ANDE",
+    "name": "Andersons Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ANGI",
+    "name": "ANGI Homeservices Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ANSS",
+    "name": "ANSYS"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "API",
+    "name": "Agora Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "APPS",
+    "name": "Digital Turbine Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ARCC",
+    "name": "Ares Capital Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ARCT",
+    "name": "Arcturus Therapeutics Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ARII",
+    "name": "American Railcar Industries Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ARRS",
+    "name": "ARRIS Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ARWR",
+    "name": "Arrowhead Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ASML",
+    "name": "ASML Holding NV"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ASNA",
+    "name": "Ascena Retail Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ATHX",
+    "name": "Athersys Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CY",
+    "name": "CYPRESS SEMICOND"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CYBR",
+    "name": "CyberArk"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CYOU.CH",
+    "name": "ChangYou.com"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CZR",
+    "name": "Caesars Enertainment Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CZRdel",
+    "name": "Caesars Entertainment Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DBX",
+    "name": "Dropbox Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DDOG",
+    "name": "Datadog Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DENN",
+    "name": "Dennys Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DGLY",
+    "name": "Digital Ally Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DISCA",
+    "name": "Discovery Communications Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DISH",
+    "name": "DISH Network Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DKNG",
+    "name": "Draftkings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DLTR",
+    "name": "Dollar Tree Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DNKN",
+    "name": "Dunkin Brands Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DOCU",
+    "name": "DocuSign Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DOX",
+    "name": "Amdocs Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DRVN",
+    "name": "Driven Brands Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DTV",
+    "name": "Directv"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DVAX",
+    "name": "Dynavax Technologies Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "DXCM",
+    "name": "DexCom Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EA",
+    "name": "Electronic Arts, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EBAY",
+    "name": "eBay"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EDIT",
+    "name": "Editas Medicine Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EEFT",
+    "name": "Euronet Worldwide Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EGAN",
+    "name": "eGain Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EH",
+    "name": "EHang Holdings Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EHTH",
+    "name": "eHealth Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ENPH",
+    "name": "Enphase Energy Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EQIX",
+    "name": "Equinix Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ESND",
+    "name": "Essendant Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ESRX",
+    "name": "Express Scripts Holding Co"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ETFC",
+    "name": "E*TRADE Financial Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ETSY",
+    "name": "Etsy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EVBG",
+    "name": "Everbridge Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EVFM",
+    "name": "Evofem Biosciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EXAS",
+    "name": "Exact Sciences Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EXEL",
+    "name": "Exelixis Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EXPD",
+    "name": "Expeditors International of Washington"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "EXPE",
+    "name": "Expedia Inc Del"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FANG",
+    "name": "Diamondback Energy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FAST",
+    "name": "Fastenal Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FATE",
+    "name": "Fate Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FB",
+    "name": "Facebook"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FCEL",
+    "name": "FuelCell Energy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FDML",
+    "name": "Federal-Mogul Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FEYE",
+    "name": "FireEye"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FFIV",
+    "name": "F5 Networks Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FISV",
+    "name": "Fiserv Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FITB",
+    "name": "Fifth Third Bancorp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FIVE",
+    "name": "Five Below Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CBRL",
+    "name": "CBRL Group Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CDEV",
+    "name": "Centennial Resource Development Inc/DE"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CDNS",
+    "name": "Cadence Design Systems Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CDW",
+    "name": "CDW Corp (New)"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CELG",
+    "name": "Celgene Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CEMI",
+    "name": "Chembio Diagnostics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CERN",
+    "name": "Cerner Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CERS",
+    "name": "Cerus Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CEVA",
+    "name": "Ceva Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHDN",
+    "name": "Churchill Downs Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHFS",
+    "name": "CHF Solutions Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHKP",
+    "name": "Check Point Software Technologies"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHRS",
+    "name": "Coherus Biosciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHRW",
+    "name": "C.H.Robinson Worldwide Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CHTR",
+    "name": "Charter Communications Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CINF",
+    "name": "Cincinnati Financial Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CLDX",
+    "name": "Celldex Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CLLS",
+    "name": "Cellectis SA"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CLMT",
+    "name": "Calumet Specialty Products Partners LP"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CLSK",
+    "name": "Cleanspark Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CMCSA",
+    "name": "Comcast Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CME",
+    "name": "CME Group"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CNMD",
+    "name": "Conmed Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "COCP",
+    "name": "Cocrystal Pharma Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CODX",
+    "name": "Co-Diagnostics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "COMM",
+    "name": "CommScope Holding Co Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "COOP",
+    "name": "Mr Cooper Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CORE",
+    "name": "Core-Mark Holding Company Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "COST",
+    "name": "Costco Wholesale Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "COUP",
+    "name": "Coupa Software Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CPRT",
+    "name": "Copart Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CPRX",
+    "name": "Catalyst Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRAY",
+    "name": "Cray Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRBP",
+    "name": "Corbus Pharmaceuticals Holding"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CREE",
+    "name": "Cree Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRON",
+    "name": "Cronos Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CROX",
+    "name": "Crocs Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRSP",
+    "name": "CRISPR Therapeutics AG"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRSR",
+    "name": "Corsair Gaming Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRUS",
+    "name": "Cirrus Logic Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CRWD",
+    "name": "Crowdstrike Holdings"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CSCO",
+    "name": "Cisco"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CSGP",
+    "name": "CoStar Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CSIQ",
+    "name": "Canadian Solar Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CSOD",
+    "name": "Cornerstone OnDemand Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CSX",
+    "name": "CSX Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CTAS",
+    "name": "Cintas Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CTSH",
+    "name": "Cognizant Technology Solutions Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CTXS",
+    "name": "Citrix Systems Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "CVAC",
+    "name": "CureVac NV"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FLEX",
+    "name": "Flex Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FLIR",
+    "name": "FLIR Systems Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FLWS",
+    "name": "1 800 FLOWERS COM"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FNMA",
+    "name": "First Bancorp Inc Maine"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FOLD",
+    "name": "Amicus Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FOSL",
+    "name": "Fossil Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FOX",
+    "name": "Twenty-First Century Fox Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FROG",
+    "name": "Jfrog Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FRPT",
+    "name": "Freshpet Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FSLR",
+    "name": "First Solar, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FTNT",
+    "name": "Fortinet Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FTR",
+    "name": "Frontier Communications Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "FWONA",
+    "name": "Liberty Media Formula One Corp A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GEVO",
+    "name": "Gevo Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GH",
+    "name": "Guardant Health Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GILD",
+    "name": "Gilead Sciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GLBS",
+    "name": "Globus Maritime Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GLPI",
+    "name": "Gaming and Leisure"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GLUU",
+    "name": "Glu Mobile Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GMCR",
+    "name": "Keurig Green Mountain Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GNTX",
+    "name": "Gentex Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GNUS",
+    "name": "Genius Brands International Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GOOG",
+    "name": "Alphabet"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GOSS",
+    "name": "Gossamer Bio Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GPRO",
+    "name": "GoPro Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GRMN",
+    "name": "Garmin Ltd."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GSAT",
+    "name": "Globalstar"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GSOL.CH",
+    "name": "Global Sources"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GT",
+    "name": "Goodyear Tire & Rubber Co"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "GWPH",
+    "name": "GW Pharmaceuticals Plc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HAIN",
+    "name": "Hain Celestial"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HAS",
+    "name": "Hasbro Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HAWK",
+    "name": "Blackhawk Network Holdings"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HBAN",
+    "name": "Huntington Bancshares Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HDS",
+    "name": "HD Supply Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HEAR",
+    "name": "Turtle Beach Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HOLX",
+    "name": "Hologic Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HQY",
+    "name": "HealthEquity Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HSIC",
+    "name": "Henry Schein Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HTBX",
+    "name": "Heat Biologics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HTGM",
+    "name": "HTG Molecular Diagnostics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "HTHT",
+    "name": "Huazhu Group Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IAC",
+    "name": "IAC/InterActiveCorp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IBKC",
+    "name": "IBERIABANK Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IBKR",
+    "name": "Interactive Brokers Group"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ICPT",
+    "name": "Intercept Pharma"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IDCC",
+    "name": "InterDigital Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IDEX",
+    "name": "Ideanomics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IDXX",
+    "name": "IDEXX Laboratories Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IEP",
+    "name": "Icahn Entrpres Depositary Units Repr Units of LP Interests"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NUVA",
+    "name": "NuVasive Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NVAX",
+    "name": "Novavax Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NVCR",
+    "name": "Novocure Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NVDA",
+    "name": "NVIDIA Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NWL",
+    "name": "Newell Rubbermaid Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NWSA",
+    "name": "News Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NXPI",
+    "name": "NXP Semiconductors"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OCGN",
+    "name": "Ocugen Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ODFL",
+    "name": "Old Dominion Freight Line Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ODP",
+    "name": "Office Depot Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OGI",
+    "name": "Organigram Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OKTA",
+    "name": "Okta Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OLED",
+    "name": "Universal Display Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OLLI",
+    "name": "Ollies Bargain Outlet Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ON",
+    "name": "ON Semiconductor Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ONCE",
+    "name": "Spark Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ORBC",
+    "name": "ORBCOMM Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ORLY",
+    "name": "OReilly Automotive Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "OSTK",
+    "name": "Overstock.com, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PAAS",
+    "name": "Pan American Silver Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PACB",
+    "name": "Pacific Biosciences of California Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PAYS",
+    "name": "Paysign Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PAYX",
+    "name": "Paychex Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PBYI",
+    "name": "Puma Biotechnology Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PCAR",
+    "name": "Paccar Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PCVX",
+    "name": "Vaxcyte Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PDCE",
+    "name": "PDC Energy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PDCO",
+    "name": "Patterson Companies Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PDD",
+    "name": "Pinduoduo Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PEGI",
+    "name": "Pattern Energy Group"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PENN",
+    "name": "Penn National Gaming Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PEP",
+    "name": "PepsiCo"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PETM",
+    "name": "PetSmart Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PFG",
+    "name": "Principal Financial Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PFPT",
+    "name": "Proofpoint Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PI",
+    "name": "Impinj Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PLAY",
+    "name": "Dave & Busters Entertainment Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PLTK",
+    "name": "Playtika Holding Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PLUG",
+    "name": "Plug Power Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PODD",
+    "name": "Insulet Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "POOL",
+    "name": "Pool Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "POSH",
+    "name": "Poshmark Inc Class A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "POWI",
+    "name": "Power Integrations"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PPC",
+    "name": "Pilgrims Pride"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PRAH",
+    "name": "PRA Health Sciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PS",
+    "name": "Pluralsight Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PTC",
+    "name": "PTC Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PTON",
+    "name": "Peloton Interactive"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PYPL",
+    "name": "PayPal Holdings"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "PZZA",
+    "name": "Papa John's International Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IIVI",
+    "name": "II-VI Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ILMN",
+    "name": "Illumina"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IMMU",
+    "name": "Immunomedics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IMPV",
+    "name": "Imperva"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INCY",
+    "name": "Incyte Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INFO",
+    "name": "IHS Markit Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INGN",
+    "name": "Inogen Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INO",
+    "name": "Inovio Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INPX",
+    "name": "Inpixon"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INSY",
+    "name": "Insys Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INTC",
+    "name": "Intel"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "INTU",
+    "name": "Intuit Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IONS",
+    "name": "Ionis Pharmaceuticals"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IPGP",
+    "name": "Ipg Photonics Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IRBT",
+    "name": "iRobot Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IRTC",
+    "name": "iRhythm Technologies Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ISBC",
+    "name": "Investors Bancorp Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ISRG",
+    "name": "Intuitive Surgical Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "IZEA",
+    "name": "IZEA Worldwide Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JACK",
+    "name": "Jack in the Box Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JAGX",
+    "name": "Jaguar Health Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JAZZ",
+    "name": "Jazz Pharmaceuticals"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JBHT",
+    "name": "J.B.Hunt Transport Services Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JBLU",
+    "name": "JetBlue Airways Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JD.US",
+    "name": "JD.com"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JFU",
+    "name": "9F Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JKHY",
+    "name": "Jack Henry & Associates Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JOBS.CH",
+    "name": "51Job"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JOUT",
+    "name": "Johnson Outdoors Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "JSNTST",
+    "name": "JSNTST"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "KC",
+    "name": "Kingsoft Cloud Holdings Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "KHC",
+    "name": "The Kraft Heinz Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "KLAC",
+    "name": "KLA Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "KTOS",
+    "name": "Kratos Defense & Security Solutions Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LAMR",
+    "name": "Lamar Advertising Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LBTYA",
+    "name": "Liberty Global A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LBTYK",
+    "name": "Liberty Global C"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LILA",
+    "name": "Liberty Global PLC LiLAC Class A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LITE",
+    "name": "Lumentum Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LK",
+    "name": "Luckin Coffee Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LKQ",
+    "name": "LKQ Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LLIT",
+    "name": "Lianluo Smart Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LLTC",
+    "name": "Linear Technology Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LNG",
+    "name": "Cheniere Energy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LOGM",
+    "name": "LogMeIn Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LPNT",
+    "name": "LifePoint Health Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LPSN",
+    "name": "LivePerson Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LRCX",
+    "name": "Lam Research Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LSCC",
+    "name": "Lattice Semiconductor Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LSXMA",
+    "name": "Liberty Media Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LULU",
+    "name": "Lululemon Athletica Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LUNA",
+    "name": "Luna Innovations Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "LYFT",
+    "name": "Lyft Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MAR",
+    "name": "Marriott International Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MARA",
+    "name": "Marathon Patent Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MARK",
+    "name": "Remark Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MASI",
+    "name": "Masimo Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MAT",
+    "name": "Mattel Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MCHP",
+    "name": "Microchip Technology Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MDB",
+    "name": "MongoDB Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MDLZ",
+    "name": "Mondelez International Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MDSO",
+    "name": "Medidata Solutions Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MEG",
+    "name": "Media General"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MELI",
+    "name": "MercadoLibre"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MGNI",
+    "name": "Magnite Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MIDD.US",
+    "name": "Middleby Corp/The"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MIK",
+    "name": "The Michaels Companies Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MITK",
+    "name": "Mitek Systems Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MKTX",
+    "name": "MarketAxess Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MLNX",
+    "name": "Mellanox Technologies Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MMYT",
+    "name": "Makemytrip"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MNST",
+    "name": "Monster Beverage Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MOMO",
+    "name": "MOMO Inc ADR"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MRCY",
+    "name": "Mercury Systems Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MRNA",
+    "name": "Moderna Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MRTX",
+    "name": "Mirati Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MRVL",
+    "name": "Marvell Technology Group Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MSFT",
+    "name": "Microsoft"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MTCH",
+    "name": "Match Group, Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MU",
+    "name": "Micron Technology, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "MXIM",
+    "name": "Maxim Integrated Products Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NAKD",
+    "name": "Naked Brand Group"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NATI",
+    "name": "National Instruments Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NAVI",
+    "name": "Navient Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NBEV",
+    "name": "New Age Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NBIX",
+    "name": "Neurocrine Biosciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NET",
+    "name": "Cloudflare"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NFLX",
+    "name": "Netflix, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NIU",
+    "name": "Niu Technologies"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NKLA",
+    "name": "Nikola Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NLOK",
+    "name": "NortonLifeLock"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NNDM",
+    "name": "Nano Dimension Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTAP",
+    "name": "NetApp Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTDOY",
+    "name": "Nintendo CO Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTES.CH",
+    "name": "NetEase"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTLA",
+    "name": "Intellia Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTNX",
+    "name": " Nutanix Inc A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTRA",
+    "name": "Natera Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NTRS",
+    "name": "Northern Trust Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "NUAN",
+    "name": "Nuance Communications"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QCOM",
+    "name": "Qualcomm Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QFIN",
+    "name": "360 Finance Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QIWI",
+    "name": "Qiwi Plc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QLGN",
+    "name": "Qualigen Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QRTEA",
+    "name": "Qurate Retail Group inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QRVO",
+    "name": "Qorvo Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QTT",
+    "name": "Qutoutiao Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QUNR.CH",
+    "name": "Qunar Cayman Islands"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "QURE",
+    "name": "uniQure NV"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RARX",
+    "name": "Ra Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "REAL",
+    "name": "RealReal Inc/The"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "REG",
+    "name": "Regency Centers Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "REGN",
+    "name": "Regeneron Pharmaceuticals"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RETA",
+    "name": "Reata Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RGEN",
+    "name": "Repligen Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RIOT",
+    "name": "Riot Blockchain Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ROKU",
+    "name": "Roku Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ROST",
+    "name": "Ross Stores Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RPAY",
+    "name": "Repay Holdings Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RPD",
+    "name": "Rapid7 Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RUN",
+    "name": "Sunrun Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RUSHB",
+    "name": "Rush Enterprises Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "RYAAY",
+    "name": "Ryanair Holdings plc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SAFM",
+    "name": "Sanderson Farms Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SAGE",
+    "name": "Sage Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SANM",
+    "name": "Sanmina Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SBAC",
+    "name": "SBA Communications Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SBNY",
+    "name": "Signature Bank"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SBRA",
+    "name": "Sabra Health Care REIT Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SBUX",
+    "name": "Starbucks Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SEDG",
+    "name": "SolarEdge Technologies"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SEIC",
+    "name": "SEI Investments Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SFIX",
+    "name": "Stitch Fix Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SFM",
+    "name": "Sprouts Farmers Market Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SFT",
+    "name": "Shift Technologies Inc Class A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SGEN",
+    "name": "Seattle Genetics"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SGMO",
+    "name": "Sangamo Biosciences Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SHIP",
+    "name": "Seanergy Maritime Holdings Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SHLD",
+    "name": "Sears Holdings Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SINA",
+    "name": "SINA Corp/China"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SINT",
+    "name": "SiNtx Technologies Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SIRI",
+    "name": "Sirius XM Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SIVB",
+    "name": "SVB Financial Group"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SLAB",
+    "name": "Silicon Laboratories Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SLGN",
+    "name": "Silgan Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SMTC",
+    "name": "Semtech Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SNDK",
+    "name": "SanDisk Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SNEX",
+    "name": "StoneX Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SNPS",
+    "name": "Synopsys Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SOLO",
+    "name": "ElectraMeccanica Vehicles Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SPLK",
+    "name": "Splunk Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SPLS",
+    "name": "Staples Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SPTN",
+    "name": "SpartanNash Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SPWR",
+    "name": "SunPower Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SRCL",
+    "name": "Stericycle"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SRNE",
+    "name": "Sorrento Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SRPT",
+    "name": "Sarepta Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SSNC",
+    "name": "SS&C Technologies Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SSSS",
+    "name": "SuRo Capital Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "STLD",
+    "name": "Steel Dynamics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "STMP",
+    "name": "Stamps.com Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "STNE",
+    "name": "StoneCo Ltd A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "STX",
+    "name": "Seagate Technology PLC"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SUMO",
+    "name": "Sumo Logic Inc. "
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SUNW",
+    "name": "Sunworks Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SWBI",
+    "name": "Smith & Wesson Brands Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SWKS",
+    "name": "Skyworks Solutions"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SYNA",
+    "name": "Synaptics Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "SYNT",
+    "name": "Syntel"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TA",
+    "name": "TravelCenters of America LLC"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TACO",
+    "name": "Del Taco Restaurants Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TBLT",
+    "name": "Toughbuilt Industries Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TCOM.CH",
+    "name": "Trip.com Group Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TEAM",
+    "name": "Atlassian Corp PLC A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TECD",
+    "name": "Tech Data Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TECH",
+    "name": "Bio-Techne Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TELL",
+    "name": "Tellurian Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TER",
+    "name": "Teradyne Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TIVO",
+    "name": "TiVo Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TLRY",
+    "name": "Tilray, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TMUS",
+    "name": "T-Mobile US Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TNDM",
+    "name": "Tandem Diabetes Care Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TOPS",
+    "name": "TOP Ships Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TPIC",
+    "name": "TPI Composites Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TREE",
+    "name": "LendingTree Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TRIP",
+    "name": "TripAdvisor Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TRMB",
+    "name": "Trimble Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TROW",
+    "name": "T Rowe Price Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TRVN",
+    "name": "Trevena Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TSCO",
+    "name": "Tractor Supply Co"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TSLA",
+    "name": "Tesla Motors, Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TTCF",
+    "name": "Tattooed Chef Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TTD",
+    "name": "Trade Desk Inc A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TTNP",
+    "name": "Titan Pharmaceuticals Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TTWO",
+    "name": "Take Two Interactive Software Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TXG",
+    "name": "10X Genomics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TXN",
+    "name": "Texas Instruments Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "TXRH",
+    "name": "Texas Roadhouse Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UAL",
+    "name": "United Continental Holdings Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UEIC",
+    "name": "Universal Electronics Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UI",
+    "name": "Ubiquiti Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ULTA",
+    "name": "Ulta Beauty Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ULTI",
+    "name": "Ultimate Software Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UNIT",
+    "name": "Uniti Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UONE",
+    "name": "Urban One Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "UPWK",
+    "name": "Upwork Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "URBN",
+    "name": "Urban Outfitters Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VBIV",
+    "name": "VBI Vaccines Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VC",
+    "name": "Visteon Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VCYT",
+    "name": "Veracyte Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VIA",
+    "name": "Viacom Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VIAV",
+    "name": "Viavi Solutions"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VIR",
+    "name": "Vir Biotechnology Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VOD",
+    "name": "Vodafone"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VRDN",
+    "name": "Miragen Therapeutics Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VRM",
+    "name": "Vroom Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VRSK",
+    "name": "Verisk Analytics"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VRSN",
+    "name": "Verisign"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VRTX",
+    "name": "Vertex Pharmaceuticals Incorporated"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VTRS",
+    "name": "Viatris Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VTRU",
+    "name": "Vitru Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VWR",
+    "name": "VWR Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "VXRT",
+    "name": "Vaxart Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WB",
+    "name": "Weibo Corp"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WBA",
+    "name": "Walgreens Boots Alliance Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WDAY",
+    "name": "Workday Inc A"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WDC",
+    "name": "Western Digital Corporation"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WE",
+    "name": "WeWork"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WEN",
+    "name": "Wendy's"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WFM",
+    "name": "Whole Foods Market Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WIX",
+    "name": "Wix.com Ltd "
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WKHS",
+    "name": "Workhorse Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WLTW",
+    "name": "Willis Towers Watson Public Limited Company"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WMGI",
+    "name": "Wright Medical Group NV"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WOOF",
+    "name": "Petco Health & Wellness Co Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WTW",
+    "name": "Weight Watchers International Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "WYNN",
+    "name": "Wynn Resorts Ltd"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "XEL",
+    "name": "Xcel Energy Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "XLNX",
+    "name": "Xilinx Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "XRAY",
+    "name": "Dentsply Sirona Inc."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "XXIA",
+    "name": "Ixia"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "YNDX",
+    "name": "Yandex NV"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "Z",
+    "name": "Zillow Group Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZBRA",
+    "name": "Zebra Technologies Corp."
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZGNX",
+    "name": "Zogenix Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZION",
+    "name": "Zions Bancorp NA"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZM",
+    "name": "Zoom Video Communications Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZNGA",
+    "name": "Zynga"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZS",
+    "name": "Zscaler Inc"
+  },
+  {
+    "index": "NASDAQ",
+    "symbol": "ZYNE",
+    "name": "Zynerba Pharmaceuticals Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APA",
+    "name": "APA Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APC",
+    "name": "Anadarko Petroleum Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APD",
+    "name": "Air Products & Chemicals Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APH",
+    "name": "Amphenol Corporation (New)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APRN",
+    "name": "Blue Apron Holdings Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "APTV",
+    "name": "Aptiv PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AQ",
+    "name": "Aquantia Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AQUA",
+    "name": "Evoqua Water Technologies Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARCH",
+    "name": "Arch Coal Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARE",
+    "name": "Alexandria Real Estate Equities Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARG",
+    "name": "Airgas Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARGO",
+    "name": "Argo Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARMK",
+    "name": "Aramark"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ARW",
+    "name": "Arrow Electronics Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ASAN",
+    "name": "Asana"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ASH",
+    "name": "Ashland Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ASXC",
+    "name": "Asensus Surgical Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATGE",
+    "name": "Adtalem Global Education Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATH",
+    "name": "Athene Holding Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATHM.CH",
+    "name": "Autohome"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATI",
+    "name": "Allegheny Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATO",
+    "name": "Atmos Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ATUS",
+    "name": "Altice USA Inc A"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AU",
+    "name": "AngloGold Ashanti Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AUY",
+    "name": "Yamana Gold Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AVB",
+    "name": "AvalonBay Communities Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AVP",
+    "name": "Avon Products Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AVY",
+    "name": "Avery Dennison Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AWK",
+    "name": "American Water Works Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AXE",
+    "name": "Anixter International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AXLL",
+    "name": "Axiall Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AXP",
+    "name": "American Express CO"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AXTA",
+    "name": "Axalta Coating Systems"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AYI",
+    "name": "Acuity Brands Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AYX",
+    "name": "Alteryx Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AZN",
+    "name": "AstraZeneca PLC ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AZO",
+    "name": "Autozone Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AZUL",
+    "name": "Azul SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BA",
+    "name": "Boeing"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BABA",
+    "name": "Alibaba"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BAC",
+    "name": "Bank of America Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BAH",
+    "name": "Booz Allen Hamilton Holding Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BAX",
+    "name": "Baxter International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BB",
+    "name": "BlackBerry Limited"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BBD",
+    "name": "Banco Bradesco ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BBY",
+    "name": "Best Buy Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BC",
+    "name": "Brunswick Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BCO",
+    "name": "Brinks Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BDX",
+    "name": "Becton Dickinson & Co."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BE",
+    "name": "Bloom Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "A",
+    "name": "Agilent Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AA",
+    "name": "Alcoa"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AAP",
+    "name": "Advance Auto Parts Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABBV",
+    "name": "AbbVie Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABC",
+    "name": "AmerisourceBergen Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABEV",
+    "name": "Ambev ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABG",
+    "name": "Asbury Automotive Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABM",
+    "name": "ABM Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ABT",
+    "name": "Abbott Laboratories"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ACB",
+    "name": "Aurora Cannabis Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ACI",
+    "name": "Albertsons Cos Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ACM",
+    "name": "AECOM"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ACN",
+    "name": "Accenture PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ADM",
+    "name": "Archer-Daniels-Midland Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ADS",
+    "name": "Alliance Data Systems Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ADT",
+    "name": "ADT Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AEE",
+    "name": "Ameren Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AEM",
+    "name": "Agnico Eagle Mines Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AEO",
+    "name": "American Eagle Outfitters Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AEP",
+    "name": "American Electric Power Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AES",
+    "name": "AES Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AET",
+    "name": "Aetna Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AFG",
+    "name": "American Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AFL",
+    "name": "Aflac Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AGCO",
+    "name": "AGCO Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AGN",
+    "name": "Allergan PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AGRO",
+    "name": "Adecoagro S.A."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AIG",
+    "name": "American International Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AIN",
+    "name": "Albany International Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AIZ",
+    "name": "Assurant Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AJG",
+    "name": "Arthur J.Gallagher & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AKS",
+    "name": "Ak Steel Holding Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ALB",
+    "name": "Albemarle Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ALK",
+    "name": "Alaska Air Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ALL",
+    "name": "Allstate Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ALLE",
+    "name": "Allegion"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ALLY",
+    "name": "Ally Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AME",
+    "name": "AMETEK Inc (New)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AMG",
+    "name": "Affiliated Managers Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AMP",
+    "name": "Ameriprise Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AMT",
+    "name": "American Tower Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AMWL",
+    "name": "American Well Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AMX",
+    "name": "America Movil, S.A.B. de C.V."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AN",
+    "name": "AutoNation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ANDV",
+    "name": "Andeavor"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ANET",
+    "name": "Arista Networks Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ANF",
+    "name": "Abercrombie & Fitch Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ANTM",
+    "name": "Anthem Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AON",
+    "name": "Aon plc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "AOS",
+    "name": "A O Smith Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BEN",
+    "name": "Franklin Resources Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BERY",
+    "name": "Berry Plastics Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BFAM",
+    "name": "Bright Horizons Family Solutions"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BG",
+    "name": "Bunge Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BGC",
+    "name": "General Cable Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BHC",
+    "name": "Bausch Health Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BHI",
+    "name": "Baker Hughes Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BHP",
+    "name": "BHP Group Ltd ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BHVN",
+    "name": "Biohaven Pharmaceutical Holding Co Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BIG",
+    "name": "Big Lots Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BILL",
+    "name": "Bill.com Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BIO",
+    "name": "Bio-Rad Laboratories Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BITA",
+    "name": "Bitauto Holdings Limited"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BJ",
+    "name": "BJs Wholesale Club Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BK",
+    "name": "Bank of New York Mellon Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BKR",
+    "name": "Baker Hughes A GE Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BKS",
+    "name": "Barnes & Noble Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BLK",
+    "name": "BlackRock Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BLL",
+    "name": "Ball Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BMS",
+    "name": "Bemis Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BMY",
+    "name": "Bristol-Myers Squibb Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BOX",
+    "name": "Box Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BPL",
+    "name": "Buckeye Partners L P"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BR",
+    "name": "Broadridge Financial Solutions"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BRFS",
+    "name": "BRF SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BRK.B",
+    "name": "Berkshire Hathaway Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BRO",
+    "name": "Brown & Brown Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BSAC",
+    "name": "Banco Santander Chile"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BTG.US",
+    "name": "B2Gold Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BTI",
+    "name": "British American Tobacco PLC ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BTU",
+    "name": "Peabody Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BUD",
+    "name": "Anheuser-Busch Inbev Sa"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BURL",
+    "name": "Burlington Stores Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BWA",
+    "name": "BorgWarner Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BX",
+    "name": "BlackStone Group LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BXP",
+    "name": "Boston Properties Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BXS",
+    "name": "BancorpSouth Bank"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "BYD",
+    "name": "Boyd Gaming"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "C",
+    "name": "Citigroup"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CAA",
+    "name": "CalAtlantic Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CADE",
+    "name": "Cadence BanCorp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CAG",
+    "name": "ConAgra Foods Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CAH",
+    "name": "Cardinal Health Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CAM",
+    "name": "Schlumberger Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CAT",
+    "name": "Caterpillar"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CB",
+    "name": "Chubb Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CBRE",
+    "name": "CBRE Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CC",
+    "name": "The Chemours"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CCEP",
+    "name": "Coca-Cola Enterprises Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CCI",
+    "name": "Crown Castle International"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CCK",
+    "name": "Crown Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CCL",
+    "name": "Carnival Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CCU",
+    "name": "Cia Cervecerias unidas"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CE",
+    "name": "Celanese Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CEQP",
+    "name": "Crestwood Equity Partners LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CF",
+    "name": "CF Industries Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CFG",
+    "name": "Citizens Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CFX",
+    "name": "Colfax Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CGC",
+    "name": "Canopy Growth Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHD",
+    "name": "Church & Dwight Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHE",
+    "name": "Chemed Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHGG",
+    "name": "Chegg Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHK",
+    "name": "Chesapeake Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHL",
+    "name": "China Mobile Limited"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CHWY",
+    "name": "Chewy"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CI",
+    "name": "Cigna Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CIEN",
+    "name": "Ciena Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CIG",
+    "name": "Companhia Energetica de Minas Gerais"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CISN",
+    "name": "Cision Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CIT",
+    "name": "CIT Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CL",
+    "name": "Colgate-Palmolive"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CLDR",
+    "name": "Cloudera Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CLR",
+    "name": "Continental Resources Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CLX",
+    "name": "Clorox Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CMA",
+    "name": "Comerica Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CMC",
+    "name": "Commercial Metals Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CMG",
+    "name": "Chipotle Mexican Grill Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CMI",
+    "name": "Cummins Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CMS",
+    "name": "CMS Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNC",
+    "name": "Centene Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNK",
+    "name": "Cinemark Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNO",
+    "name": "CNO Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNP",
+    "name": "Centerpoint Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNQ",
+    "name": "Canadian Natural Resources Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CNX",
+    "name": "CNX Resources Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COF",
+    "name": "Capital One Financial Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COG",
+    "name": "Cabot Oil & Gas Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COL",
+    "name": "Rockwell Collins Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COLD",
+    "name": "Americold Realty Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COO",
+    "name": "Cooper Cos Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COP",
+    "name": "ConocoPhillips Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "COTY",
+    "name": "Coty Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CPB",
+    "name": "Campbell Soup Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CPE",
+    "name": "Callon Petroleum Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CPN",
+    "name": "Calpine Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CPNG",
+    "name": "Coupang LLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CPRI",
+    "name": "Capri Holdings Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CRI",
+    "name": "Carters"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CRL",
+    "name": "Charles River Laboratories Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CRM",
+    "name": "Salesforce.com Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CST",
+    "name": "CST Brands Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CTLT",
+    "name": "Catalent Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CTVA",
+    "name": "Corteva Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CUB",
+    "name": "Cubic Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CUBE",
+    "name": "CubeSmart"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVA",
+    "name": "Covanta Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVC",
+    "name": "Cablevision Systems Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVI.N",
+    "name": "CVR Energy"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVNA",
+    "name": "Carvana Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVRR",
+    "name": "CVR Refining"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVS",
+    "name": "CVS Health Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CVX",
+    "name": "Chevron"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CWEN",
+    "name": "Clearway Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CX",
+    "name": "Cemex, S.A.B. de C.V."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CXO",
+    "name": "Concho Resources Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "CYH",
+    "name": "Community Health Systems Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "D",
+    "name": "Dominion Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DAL",
+    "name": "Delta Air Lines Inc (DE)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DAN",
+    "name": "Dana Holding Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DAR",
+    "name": "Darling Ingredients Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DASH.US",
+    "name": "DoorDash Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DATA",
+    "name": "Tableau Software Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DB",
+    "name": "Deutsche-Bank"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DCI",
+    "name": "Donaldson Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DD",
+    "name": "DowDuPont Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DDD",
+    "name": "3D Systems Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DDOld",
+    "name": "Du-Pont"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DDS",
+    "name": "Dillards Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DE",
+    "name": "Deere & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DECK",
+    "name": "Deckers Outdoor Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DELL",
+    "name": "Dell Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DEM",
+    "name": "WisdomTree Emerging"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DEN",
+    "name": "Denbury Resources Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DF",
+    "name": "Dean Foods Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DFS",
+    "name": "Discover Financial Services"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DGX",
+    "name": "Quest Diagnostics Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DHI",
+    "name": "D.R. Horton Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DHR",
+    "name": "Danaher Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DIS",
+    "name": "Walt Disney"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DK",
+    "name": "Delek US Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DKS",
+    "name": "Dicks Sporting Goods Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DLPH",
+    "name": "Delphi Technologies PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DLR",
+    "name": "Digital Realty Trust Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DNB",
+    "name": "The Dun & Bradstreet"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DNOW",
+    "name": "Now Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DOV",
+    "name": "Dover Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DOW",
+    "name": "Dow Chemical Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DOYU",
+    "name": "Douyu "
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DPZ",
+    "name": "Dominos Pizza Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DRE",
+    "name": "Duke Realty Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DRI",
+    "name": "Darden Restaurants Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DT",
+    "name": "Dynatrace Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DTE",
+    "name": "DTE Energy Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DUK",
+    "name": "Duke Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DVA",
+    "name": "DaVita HealthCare Partners Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DVN",
+    "name": "Devon Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "DXC",
+    "name": "DXC Technology Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EAT",
+    "name": "Brinker Intl."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EBS",
+    "name": "Emergent BioSolutions Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ECL",
+    "name": "Ecolab Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ED",
+    "name": "Consolidated Edison Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EDU",
+    "name": "New Oriental Education & Techn ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EFX",
+    "name": "Equifax Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EGHT",
+    "name": "8x8 Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EHC",
+    "name": "Encompass Health Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EIX",
+    "name": "Edison International"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EL",
+    "name": "Estee Lauder Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ELAN",
+    "name": "Elanco Animal Health Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ELLI",
+    "name": "Ellie Mae Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EMC",
+    "name": "EMC Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EME",
+    "name": "Emcor Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EMN",
+    "name": "Eastman Chemical Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EMR",
+    "name": "Emerson Electric Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ENB",
+    "name": "Enbridge Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ENR",
+    "name": "Energizer Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ENS",
+    "name": "EnerSys"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EOG",
+    "name": "EOG Resources Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EPC",
+    "name": "Edgewell Personal Care"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EPD",
+    "name": "Enterprise Products"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EQR",
+    "name": "Equity Residential"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ES",
+    "name": "Eversource Energy"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ESNT",
+    "name": "Essent Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ESS",
+    "name": "Essex Property Trust Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ESTC",
+    "name": "Elastic NV"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ET",
+    "name": "Energy Transfer Equity LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ETN",
+    "name": "Eaton Corp PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ETR",
+    "name": "Entergy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EV",
+    "name": "Eaton Vance Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EVA",
+    "name": "Enviva Partners LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EVHC",
+    "name": "Envision Healthcare Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EVRG",
+    "name": "Evergy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EW",
+    "name": "Edwards Lifesciences Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EXC",
+    "name": "Exelon Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "EXR",
+    "name": "Extra Space Storage Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "F",
+    "name": "Ford Motor Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FAF",
+    "name": "First American Financial Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FBHS",
+    "name": "Fortune Brands Home & Security Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FBP",
+    "name": "First BanCorp/Puerto Rico"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FCPT",
+    "name": "Four Corners Property Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FCX",
+    "name": "Freeport-McMoRan Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FDC",
+    "name": "First Data Corp A"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FDS",
+    "name": "Factset Research Systems Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FDX",
+    "name": "FedEx Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FE",
+    "name": "FirstEnergy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FIS",
+    "name": "Fidelity National Information Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FIT",
+    "name": "Fitbit"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FL",
+    "name": "Foot Locker Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FLO",
+    "name": "Flowers Foods"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FLR",
+    "name": "Fluor Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FLS",
+    "name": "Flowserve Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FLT",
+    "name": "FleetCor Technologies"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FMC",
+    "name": "FMC Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FNF",
+    "name": "Fidelity National Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FNV",
+    "name": "Franco-Nevada Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FOUR",
+    "name": "Shift4 Payments Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FRC",
+    "name": "First Republic Bank/CA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FRT",
+    "name": "Federal Realty Investment Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FSLY",
+    "name": "Fastly Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FTCH",
+    "name": "Farfetch"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FTI",
+    "name": "TechnipFMC Plc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FTV",
+    "name": "Fortive Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "FVRR",
+    "name": "Fiverr International "
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GCAP",
+    "name": "GAIN CAPITAL HOLDINGS LTD"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GD",
+    "name": "General Dynamics Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GDDY",
+    "name": "GoDaddy Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GDOT",
+    "name": "Green Dot Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GE",
+    "name": "General Electric Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GEF",
+    "name": "Greif Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GFI",
+    "name": "Gold Fields Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GG",
+    "name": "Goldcorp Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GGB",
+    "name": "Gerdau SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GHC",
+    "name": "Graham Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GIB",
+    "name": "CGI Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GIS",
+    "name": "General Mills Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GKOS",
+    "name": "Glaukos Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GL",
+    "name": "Globe Life Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GLP",
+    "name": "Global Partners LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GLW",
+    "name": "Corning Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GM",
+    "name": "General Motors Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GME",
+    "name": "GameStop Corp New"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GNC",
+    "name": "GNC Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GNRC",
+    "name": "Generac Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GNW",
+    "name": "Genworth Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GOL",
+    "name": "Gol Linhas Aereas Inteligentes SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GOLD.BARRICK",
+    "name": "Barrick Gold"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GPC",
+    "name": "Genuine Parts Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GPI",
+    "name": "Group 1 Automotive Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GPK",
+    "name": "Graphic Packaging Holding Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GPN",
+    "name": "Global Payments Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GPS",
+    "name": "Gap, Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GRA",
+    "name": "W.R Grace"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GRUB",
+    "name": "GrubHub Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GS",
+    "name": "Goldman Sachs Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GSX",
+    "name": "GSX Techedu Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GWRE",
+    "name": "Guidewire Software Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "GWW",
+    "name": "WW Grainger Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "H",
+    "name": "Hyatt Hotels Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HAE",
+    "name": "Haemonetics Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HAL",
+    "name": "Halliburton Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HAR",
+    "name": "Harman International Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HASI",
+    "name": "Hannon Armstrong Sustainable Infrastructure Capital Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HBI",
+    "name": "Hanesbrands Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HCA",
+    "name": "HCA Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HD",
+    "name": "Home Depot Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HEI",
+    "name": "Heico Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HES",
+    "name": "Hess Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HEXO",
+    "name": "HEXO Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HFC",
+    "name": "HollyFrontier Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HGV",
+    "name": "Hilton Grand Vacations Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HIG",
+    "name": "The Hartford Financial Services Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HII",
+    "name": "Huntington Ingalls Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HLF",
+    "name": "Herbalife"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HLT",
+    "name": "Hilton Worldwide Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HMC",
+    "name": "Honda"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HMY",
+    "name": "Harmony Gold Mining Co Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HNT",
+    "name": "Health Net Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HOG",
+    "name": "Harley-Davidson Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HON",
+    "name": "Honeywell International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HOT",
+    "name": "Starwood Hotels & Resorts Worldwide Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HPE",
+    "name": "Hewlett Packard Enterprise Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HPQ",
+    "name": "Hewlett Packard"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HRC",
+    "name": "Hill-Rom Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HRI",
+    "name": "Herc Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HRL",
+    "name": "Hormel Foods Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HSBC",
+    "name": "HSBC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HST",
+    "name": "Host Hotels & Resorts Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HSY",
+    "name": "Hershey Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HTA",
+    "name": "Healthcare Trust of America Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HTZGQ",
+    "name": "Hertz Global Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HUBS",
+    "name": "HubSpot"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HUBb",
+    "name": "Hubbell Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HUM",
+    "name": "Humana Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "HUN",
+    "name": "Huntsman Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IBM",
+    "name": "IBM"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IBP",
+    "name": "Installed Building Products Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IDA",
+    "name": "IDACORP Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IEX",
+    "name": "IDEX Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IFF",
+    "name": "International Flavors & Fragra"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IIPR",
+    "name": "Innovative Industrial Properties Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IM",
+    "name": "Ingram Micro Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "INFY",
+    "name": "Infosys Limited"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "INGR",
+    "name": "Ingredion Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "INSP",
+    "name": "Inspire Medical Systems Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "INT",
+    "name": "World Fuel Services Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "INVN",
+    "name": "InvenSense"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IP",
+    "name": "International Paper Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IPG",
+    "name": "Interpublic Group of Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IPHI",
+    "name": "Inphi Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IQV",
+    "name": "IQVIA Holdings Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IRM",
+    "name": "Iron Mountain Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "IT",
+    "name": "Gartner Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ITUB",
+    "name": "Itau Unibanco Holding ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ITW",
+    "name": "Illinois Tool Works Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "J",
+    "name": "Jacobs Engineering Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JAH",
+    "name": "Jarden Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JBL",
+    "name": "Jabil Circuit Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JBT",
+    "name": "John Bean Technologies Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JCI",
+    "name": "Johnson Controls Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JCP",
+    "name": "JC Penney Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JEF",
+    "name": "Jefferies Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JLL",
+    "name": "Jones Lang Lasalle Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JMEI.CH",
+    "name": "Jumei Intl Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JMIA",
+    "name": "Jumia Technologies AG"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JNJ",
+    "name": "Johnson & Johnson"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JNPR",
+    "name": "Juniper Networks Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JPM",
+    "name": "JPMorgan Chase & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "JWN",
+    "name": "Nordstrom Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "K",
+    "name": "Kellogg Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KBH",
+    "name": "KB Home"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KBR",
+    "name": "KBR Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KDP",
+    "name": "Dr Pepper Snapple Group, Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KEY",
+    "name": "KeyCorp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KEYS",
+    "name": "Keysight Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KGC",
+    "name": "Kinross Gold Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KING",
+    "name": "King Digital Entertainment PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KKR",
+    "name": "KKR & Co LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KL",
+    "name": "Kirkland Lake Gold Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KMB",
+    "name": "Kimberly-Clark Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KMI",
+    "name": "Kinder Morgan Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KMT",
+    "name": "Kennametal Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KMX",
+    "name": "CarMax Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KND",
+    "name": "Kindred Healthcare Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KNX",
+    "name": "Knight Transportation Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KO",
+    "name": "Coca-Cola"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KR",
+    "name": "Kroger Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KRO",
+    "name": "Kronos Worldwide Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KSS",
+    "name": "Kohls Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "KSU",
+    "name": "Kansas City Southern"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "L",
+    "name": "Loews Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LAD",
+    "name": "Lithia Motors Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LAZ",
+    "name": "Lazard"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LB",
+    "name": "L Brands Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LDOS",
+    "name": "Leidos Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LEA",
+    "name": "Lear Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LEG",
+    "name": "Leggett & Platt Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LEN",
+    "name": "Lennar Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LEVI",
+    "name": "Levi Strauss & Co. "
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LH",
+    "name": "Laboratory Corp Of America Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LHX",
+    "name": "L3Harris"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LII",
+    "name": "Lennox International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LIN",
+    "name": "Linde PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LLL",
+    "name": "L-3 Communications Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LLY",
+    "name": "Eli Lilly & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LM",
+    "name": "Legg Mason"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LMND",
+    "name": "Lemonade Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LMT",
+    "name": "Lockheed Martin Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LNC",
+    "name": "Lincoln National Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LNKD",
+    "name": "LinkedIn Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LNT",
+    "name": "Alliant Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LOW",
+    "name": "Lowes Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LPT",
+    "name": "Liberty Property Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LPX",
+    "name": "Louisiana-Pacific Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LSI",
+    "name": "Life Storage Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LTC.US",
+    "name": "LTC Properties Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LTHM",
+    "name": "Livent Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LUMN",
+    "name": "CenturyLink Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LUV",
+    "name": "Southwest Airlines Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LVLT",
+    "name": "Level 3 Communications Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LVS",
+    "name": "Las Vegas Sands Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LW",
+    "name": "Lamb Weston Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LYB",
+    "name": "LyondellBasell Industries NV"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "LYV",
+    "name": "Live Nation Entertainment Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "M",
+    "name": "Macys Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MA",
+    "name": "Mastercard"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MAA",
+    "name": "Mid-America Apartment"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MAIN",
+    "name": "Main Street Capital Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MAN",
+    "name": "Manpower Inc Doing Business As ManpowerGroup"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MANU",
+    "name": "Manchester United"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MAS",
+    "name": "Masco Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MCD",
+    "name": "McDonalds"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MCK",
+    "name": "McKesson Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MCO",
+    "name": "Moodys Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MD",
+    "name": "MEDNAX Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MDC",
+    "name": "MDC Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MDT",
+    "name": "Medtronic PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MDU",
+    "name": "MDU Resources Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MET",
+    "name": "Metlife Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MFG",
+    "name": "Mizuho Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MGM",
+    "name": "MGM Resorts International"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MHK",
+    "name": "Mohawk Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MJN",
+    "name": "Mead Johnson Nutrition Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MKC",
+    "name": "McCormick & Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MKL",
+    "name": "Markel Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MLM",
+    "name": "Martin Marietta Materials Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MMC",
+    "name": "Marsh & McLennan Cos Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MMI",
+    "name": "Marcus & Millichap"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MMM",
+    "name": "3M"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MO",
+    "name": "Altria Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MOH",
+    "name": "Molina Healthcare Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MON",
+    "name": "Monsanto Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MOS",
+    "name": "Mosaic Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MPC",
+    "name": "Marathon Petroleum Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MPW",
+    "name": "Medical Properties Trust Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MRK",
+    "name": "Merck"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MRO",
+    "name": "Marathon Oil Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MS",
+    "name": "Morgan Stanley"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MSCI",
+    "name": "MSCI Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MSI",
+    "name": "Motorola Solutions, Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTB",
+    "name": "M&T Bank Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTD",
+    "name": "Mettler-Toledo International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTDR",
+    "name": "Matador Resources Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTH",
+    "name": "Meritage Homes Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTN",
+    "name": "Vail Resorts Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTOR",
+    "name": "Meritor Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTW",
+    "name": "Manitowoc Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MTZ",
+    "name": "MasTec Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MUFG",
+    "name": "Mitsubishi UFJ Financial Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MUR",
+    "name": "Murphy Oil Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MUSA",
+    "name": "Murphy USA Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MWA",
+    "name": "MUELLER WATER PRODUCTS"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MX",
+    "name": "MagnaChip Semiconductor Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "MXL",
+    "name": "Maxlinear Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NAV",
+    "name": "Navistar International Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NBL",
+    "name": "Noble Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NCLH",
+    "name": "Norwegian Cruise Line Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NCR",
+    "name": "NCR Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NEE",
+    "name": "NextEra Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NEM",
+    "name": "Newmont Mining Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NEP",
+    "name": "NextEra Energy Partners LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NEWR",
+    "name": "New Relic"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NI",
+    "name": "Nisource Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NIO",
+    "name": "Nio Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NKE",
+    "name": "NIKE"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NLSN",
+    "name": "Nielsen N.V."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NLY",
+    "name": "Annaly Capital Management Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOC",
+    "name": "Northrop Grumman Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOK",
+    "name": "Nokia Oyj"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOMD",
+    "name": "Nomad Foods Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOV",
+    "name": "National Oilwell Varco Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOVA",
+    "name": "Sunnova Energy International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NOW",
+    "name": "ServiceNow Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NPTN",
+    "name": "NeoPhotonics Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NRG",
+    "name": "NRG Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NSC",
+    "name": "Norfolk Southern Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NSP",
+    "name": "Insperity Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NTI",
+    "name": "Northern Tier Energy LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NUE",
+    "name": "Nucor Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NVR",
+    "name": "NVR Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NVRO",
+    "name": "Nevro Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NVS",
+    "name": "Novartis ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "NVTA",
+    "name": "Invitae Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "O",
+    "name": "Realty Income Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OA",
+    "name": "Orbital ATK Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OAS",
+    "name": "Oasis Petroleum Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OC",
+    "name": "Owens Corning Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OHI",
+    "name": "Omega Healthcare Investors Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OI",
+    "name": "Owens-Illinois Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OIBR",
+    "name": "Oi SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OKE",
+    "name": "ONEOK Inc (New)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OLN",
+    "name": "Olin Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OMC",
+    "name": "Omnicom Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OMI",
+    "name": "Owens & Minor Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ORA.US",
+    "name": "Ormat Technologies Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ORCL",
+    "name": "Oracle Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ORI",
+    "name": "Old Republic International Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OSK",
+    "name": "Oshkosh Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OUT",
+    "name": "Outfront Media"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OVV",
+    "name": "Ovintiv Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "OXY",
+    "name": "Occidental Petroleum Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "P",
+    "name": "Pandora Media"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PAG",
+    "name": "Penske Automotive Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PAGP",
+    "name": "Plains GP Holdings LP"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PAGS",
+    "name": "Pagseguro Digital Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PAM",
+    "name": "Pampa Energia S.A."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PANW",
+    "name": "Palo Alto Networks"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PAYC",
+    "name": "Paycom Software Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PBF",
+    "name": "PBF Energy Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PBR",
+    "name": "Petroleo Brasileiro SA Petrobras"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PBR.A",
+    "name": "Petroleo Brasileiro ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PCG",
+    "name": "PG&E Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PCP",
+    "name": "Precision Castparts Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PE",
+    "name": "Parsley Energy Inc A"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PEB",
+    "name": "Pebblebrook Hotel Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PEG",
+    "name": "Public Service Enterprise Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PEN",
+    "name": "Penumbra Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PF",
+    "name": "Pinnacle Foods"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PFE",
+    "name": "Pfizer"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PFGC",
+    "name": "Performance Food Group Co."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PG",
+    "name": "Procter & Gamble Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PGR",
+    "name": "Progressive Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PH",
+    "name": "Parker-Hannifin Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PHM",
+    "name": "PulteGroup Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PII",
+    "name": "Polaris Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PINS",
+    "name": "Pinterest Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PKG",
+    "name": "Packaging Corp of America"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PKI",
+    "name": "PerkinElmer Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PLAN",
+    "name": "Anaplan Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PLD",
+    "name": "Prologis Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PLNT",
+    "name": "Planet Fitness Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PLTR",
+    "name": "Palantir"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PM",
+    "name": "Philip Morris International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PNC",
+    "name": "PNC Financial Services Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PNR",
+    "name": "Pentair PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "POM",
+    "name": "Pepco Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "POST",
+    "name": "Post holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "POT",
+    "name": "Potash Corporation of Saskatchewan"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PPG",
+    "name": "PPG Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PPL",
+    "name": "PPL Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PRG",
+    "name": "Prog Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PRGO",
+    "name": "Perrigo Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PRU",
+    "name": "Prudential Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PSA",
+    "name": "Public Storage"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PSX",
+    "name": "Phillips 66"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PVH",
+    "name": "PVH Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PWR",
+    "name": "Quanta Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PX",
+    "name": "Praxair Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "PXD",
+    "name": "Pioneer Natural Resources Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "QD",
+    "name": "Qudian Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "QEP",
+    "name": "QEP Resources Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "QIHU.CH",
+    "name": "Qihoo 360 Technology"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "QSR",
+    "name": "Restaurant Brands International Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "QTWO",
+    "name": "Q2 Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "R",
+    "name": "Ryder System Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RACE",
+    "name": "Ferrari NV"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RAD",
+    "name": "Rite Aid Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RAI",
+    "name": "Reynolds American Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RBLX",
+    "name": "Roblox Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RCL",
+    "name": "Royal Caribbean Cruises Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RDN",
+    "name": "Radian Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RDS.A",
+    "name": "Royal Dutch ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RDS.B",
+    "name": "Royal Dutch Shell"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RE",
+    "name": "Everest Re Group Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RENN",
+    "name": "Renren Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "REXR",
+    "name": "Rexford Industrial Realty Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RF",
+    "name": "Regions Financial Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RFP",
+    "name": "Resolute Forest Products Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RGA",
+    "name": "Reinsurance Group America Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RH",
+    "name": "RH"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RHI",
+    "name": "Robert Half International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RHT",
+    "name": "Red Hat"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RIG",
+    "name": "Transocean LTD"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RIO",
+    "name": "Rio Tinto PLC ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RJF",
+    "name": "Raymond James Financial Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RL",
+    "name": "Ralph Lauren Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RLGY",
+    "name": "Realogy Holdings Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RMAX",
+    "name": "RE/MAX Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RMD",
+    "name": "ResMed Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RNG",
+    "name": "RingCentral Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RNR",
+    "name": "Renaissancere Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ROK",
+    "name": "Rockwell Automation Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ROP",
+    "name": "Roper Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RPM",
+    "name": "RPM International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RRD",
+    "name": "R.R.Donnelley & Sons Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RS",
+    "name": "Reliance Steel And Aluminum Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RSG",
+    "name": "Republic Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RST",
+    "name": "Rosetta Stone Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RTN",
+    "name": "Raytheon Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RTX",
+    "name": "Raytheon-Technologies"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RVLV",
+    "name": "Revolve Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RWT",
+    "name": "Redwood Trust Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "RY",
+    "name": "Royal Bank of Canada"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "S",
+    "name": "Sprint Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SAH",
+    "name": "Sonic Automotive Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SAIL",
+    "name": "SailPoint Technologies Holding Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SAM",
+    "name": "Boston Beer Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SAN",
+    "name": "Banco Santander SA (US)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SAVE",
+    "name": "Spirit Airlines"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SBH",
+    "name": "Sally Beauty"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SBS",
+    "name": "Cia de Saneamento Basico do Estado de Sao Paulo"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SCCO",
+    "name": "Southern Copper Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SCG",
+    "name": "SCANA Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SCHW",
+    "name": "Charles Schwab Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SCI",
+    "name": "Service Corp Intl"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SE",
+    "name": "Sea Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SE.delisted",
+    "name": "Spectra Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SEAS",
+    "name": "SeaWorld Entertainment Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SEE",
+    "name": "Sealed Air Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SHAK",
+    "name": "Shake Shack Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SHOP",
+    "name": "Shopify Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SHW",
+    "name": "Sherwin-Williams Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SI",
+    "name": "Siemens"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SIG",
+    "name": "Signet Jewelers Limited (us)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SIX",
+    "name": "Six Flags"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SJM",
+    "name": "JM Smucker Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SKM",
+    "name": "SK Telecom Co Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SKT",
+    "name": "Tanger Factory Outlet Centers Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SLB",
+    "name": "Schlumberger Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SM",
+    "name": "SM Energy Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SMAR",
+    "name": "Smartsheet Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SMG",
+    "name": "Scotts Miracle-Gro Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SNAP",
+    "name": "Snapchat Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SNE",
+    "name": "Sony"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SNOW",
+    "name": "Snowflake Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SNX",
+    "name": "Synnex Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SO",
+    "name": "Southern Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SON",
+    "name": "Sonoco Products Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPB",
+    "name": "Spectrum Brands Holdings Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPCE",
+    "name": "Virgin Galactic Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPG",
+    "name": "Simon Property Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPGI",
+    "name": "S&P Global Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPN",
+    "name": "Superior Energy Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPOT",
+    "name": "Spotify "
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SPR",
+    "name": "Spirit AeroSystems Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SQ",
+    "name": "Square, Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SRE",
+    "name": "Sempra Energy"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ST",
+    "name": "Sensata Technologies Holding N.V."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STAG",
+    "name": "STAG Industrial Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STE",
+    "name": "STERIS PLC"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STI",
+    "name": "Suntrust Banks Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STJ",
+    "name": "St Jude Medical Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STOR",
+    "name": "Store Capital Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STT",
+    "name": "State Street Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "STZ",
+    "name": "Constellation Brands Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SU",
+    "name": "Suncor Energy Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SUI",
+    "name": "Sun Communities Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SUM",
+    "name": "Summit Materials Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SUZ",
+    "name": "Suzano SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SVU",
+    "name": "Supervalu Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SWK",
+    "name": "Stanley Black & Decker Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SWN",
+    "name": "Southwestern Energy Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SXT",
+    "name": "Sensient Technologies Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SYF",
+    "name": "Synchrony Financial"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SYK",
+    "name": "Stryker Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "SYY",
+    "name": "Sysco Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "T",
+    "name": "AT&T Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TAK",
+    "name": "Takeda Pharmaceutical Co Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TAL",
+    "name": "TAL Education Group ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TAP",
+    "name": "Molson Coors Brewing Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TD",
+    "name": "Toronto-Dominion Bank/The"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TDG",
+    "name": "Transdigm Group Incorporated"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TDOC",
+    "name": "Teladoc Health Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TDS",
+    "name": "Telephone And Data Systems Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TEF",
+    "name": "Telefonica SA (US)"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TEL.US",
+    "name": "TE Connectivity Ltd"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TEO",
+    "name": "Telecom Argentina SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TEVA",
+    "name": "Teva Pharmaceutical Industries ADR"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TFC",
+    "name": "Truist Financial"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TFX",
+    "name": "Teleflex Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TGT",
+    "name": "Target Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "THC",
+    "name": "Tenet Healthcare Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XEC",
+    "name": "Cimarex Energy Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XOM",
+    "name": "Exxon-Mobil"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XPO",
+    "name": "XPO Logistics Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XRX",
+    "name": "Xerox Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XXII",
+    "name": "22nd Century Group Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "XYL",
+    "name": "Xylem Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "Y",
+    "name": "Alleghany Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "YELP",
+    "name": "Yelp Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "YUM",
+    "name": "Yum Brands Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "YUMC",
+    "name": "Yum China Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZAYO",
+    "name": "Zayo Group Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZBH",
+    "name": "Zimmer Biomet Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZEN",
+    "name": "Zendesk"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZEPP",
+    "name": "ZEPP Health Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZTO",
+    "name": "ZTO Express Cayman Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "ZTS",
+    "name": "Zoetis"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "THG",
+    "name": "The Hanover Insurance Group Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "THO",
+    "name": "Thor Industries Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "THS",
+    "name": "TreeHouse Foods Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TIF",
+    "name": "Tiffany & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TJX",
+    "name": "TJX Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TM",
+    "name": "Toyota"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TME",
+    "name": "Tencent Music Entertainment Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TMHC",
+    "name": "Taylor Morrison Home Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TMO",
+    "name": "Thermo Fisher Scientific Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TMX",
+    "name": "Terminix Global Holdings Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TNL",
+    "name": "Travel + Leisure Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TOL",
+    "name": "Toll Brothers Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TPC",
+    "name": "Tutor Perini Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TPH",
+    "name": "TRI Pointe Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TPR",
+    "name": "Tapestry, Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TPX",
+    "name": "Tempur Sealy"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TREX",
+    "name": "Trex Co Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TRGP",
+    "name": "Targa Resources Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TRU",
+    "name": "TransUnion"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TRV",
+    "name": "Travelers"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TSM",
+    "name": "Taiwan Semiconductor Manufacturing"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TSN",
+    "name": "Tyson Foods Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TSS",
+    "name": "Total System Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TT",
+    "name": "Trane Technologies"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TTM",
+    "name": "Tata Motors"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TV",
+    "name": "Grupo Televisa, S.A.B."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TVPT",
+    "name": "Travelport"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TWC",
+    "name": "Time Warner Cable Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TWLO",
+    "name": "Twilio Inc A"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TWTR",
+    "name": "Twitter"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TWX",
+    "name": "Time-Warner"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TX",
+    "name": "Ternium SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "TXT",
+    "name": "Textron Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "U",
+    "name": "Unity Software Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UA",
+    "name": "Under Armour"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UBER",
+    "name": "Uber"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UDR",
+    "name": "UDR Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UGI",
+    "name": "UGI Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UHS",
+    "name": "Universal Health Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UNFI",
+    "name": "United Natural Foods Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UNH",
+    "name": "UnitedHealth"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UNM",
+    "name": "Unum Group"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UNP",
+    "name": "Union Pacific Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UPS",
+    "name": "United Parcel Service Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "URI",
+    "name": "United Rentals Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "USB",
+    "name": "US Bancorp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "USFD",
+    "name": "US Foods Holding Corp."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "USG",
+    "name": "USG Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "UVV",
+    "name": "Universal Corp/VA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "V",
+    "name": "Visa"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VAC",
+    "name": "Marriott Vacations Worldwide Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VAL",
+    "name": "Valspar Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VALE",
+    "name": "Vale SA"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VAR",
+    "name": "Varian Medical Systems"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VEEV",
+    "name": "Veeva Systems Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VFC",
+    "name": "VF Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VIAC",
+    "name": "VIACOMCBS"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VIPS",
+    "name": "Vipshop"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VLO",
+    "name": "Valero Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VMC",
+    "name": "Vulcan Materials Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VMW",
+    "name": "VMware"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VNO",
+    "name": "Vornado Realty Trust"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VSLR",
+    "name": "Vivint Solar Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VSM",
+    "name": "Versum Materials Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VST",
+    "name": "Vistra Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VSTO",
+    "name": "Vista Outdoor Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VTR",
+    "name": "Ventas Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "VZ",
+    "name": "Verizon"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "W",
+    "name": "Wayfair Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WAB",
+    "name": "Wabtec Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WAT",
+    "name": "Waters Corporation"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WBC",
+    "name": "WABCO Holdings"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WBT",
+    "name": "Welbilt Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WCC",
+    "name": "WESCO International Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WCG",
+    "name": "Wellcare Health Plans Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WEC",
+    "name": "Wisconsin Energy Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WELL",
+    "name": "Welltower Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WFC",
+    "name": "Wells Fargo & Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WFT",
+    "name": "Weatherford International plc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WGO",
+    "name": "Winnebago Industries Inc."
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WHR",
+    "name": "Whirlpool Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WLK",
+    "name": "Westlake Chemical Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WLL",
+    "name": "Whiting Petroleum Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WM",
+    "name": "Waste Management Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WMB",
+    "name": "Williams Companies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WMT",
+    "name": "Wal-Mart"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WNR",
+    "name": "Western Refining Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WORK",
+    "name": "Slack Technologies Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WP",
+    "name": "World Pay Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WPC",
+    "name": "WP Carey Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WPM",
+    "name": "Wheaton Precious Metals Corp"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WRK",
+    "name": "Westrock Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WSM",
+    "name": "Williams-Sonoma Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WSO",
+    "name": "Watsco Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WST",
+    "name": "West Pharmaceutical Services Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WTR",
+    "name": "Essential Utilities Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WU",
+    "name": "Western Union Company"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WUBA",
+    "name": "58.com Inc"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "WY",
+    "name": "Weyerhaeuser Co"
+  },
+  {
+    "index": "NYSE",
+    "symbol": "X",
+    "name": "United States Steel Corp"
+  }
+]
